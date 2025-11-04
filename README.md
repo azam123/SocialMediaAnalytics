@@ -1,4 +1,4 @@
-Social Media Analytics — README + Notebook
+**Social Media Analytics** — README + Notebook
 README (concise project plan)
 1 — Case study (summary)
 
